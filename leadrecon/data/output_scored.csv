@@ -1,0 +1,7 @@
+company_name,domain,score,tier,employee_count,industry,detected_tech,top_reason
+Notion,notion.so,74,Hot,500,software,,Company size (500) is in target range
+Basecamp,basecamp.com,74,Hot,60,software,,Company size (60) is in target range
+Wikipedia,wikipedia.org,60,Warm,700,nonprofit,,Company size (700) is in target range
+Stripe,stripe.com,54,Warm,7000,software,,Company size (7000) is outside target range
+Shopify,shopify.com,54,Warm,10000,e-commerce,,Company size (10000) is outside target range
+HubSpot,hubspot.com,54,Warm,7000,software,,Company size (7000) is outside target range
